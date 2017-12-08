@@ -2,7 +2,7 @@
 .icon-room {
 	width: 84px;
 	top: 14px !important; left: 5px !important;
-	background: url(https://i.imgur.com/mt4jBPY.png) 0 / cover no-repeat !important;
+	background: url(https://i.imgur.com/fdJ4Gfb.png) 0 / cover no-repeat !important;
 }
 #room-name, #room-host {
 	left: 95px;
